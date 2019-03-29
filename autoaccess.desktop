@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Auto Access
+Type=Application
+Exec=python3 /home/ecomp/a1809733/projects/access-utfpr/autoaccess.py
+Terminal=false
