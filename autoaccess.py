@@ -11,4 +11,5 @@ auto.press(['i','n','t','r','a','n','e','t','.','p','b','.','u','t','f','p','r',
 auto.press('return')
 time.sleep(1)
 auto.press('return')
+time.sleep(1)
 auto.hotkey('alt', 'f4')
